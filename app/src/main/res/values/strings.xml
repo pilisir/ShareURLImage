@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Share URL Image</string>
+    <string name="btnShare" >Share</string>
+</resources>
